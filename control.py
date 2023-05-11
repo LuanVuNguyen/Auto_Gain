@@ -7,14 +7,3 @@ class RECCONTROL:
     micsensiticity = 50
 class CLEANJOB:
     older_file = 120
-    Nguyenvuluan = 1
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    Nguyenvuluan15 = 1 
